@@ -1,0 +1,10 @@
+com\mycompany\mavenproject1\User.class
+com\mycompany\mavenproject1\service\AbstractFacade.class
+com\mycompany\mavenproject1\test.class
+com\mycompany\mavenproject1\resources\JavaEE8Resource.class
+com\mycompany\mavenproject1\Activity.class
+com\mycompany\mavenproject1\UserActivity.class
+com\mycompany\mavenproject1\service\UserFacadeREST.class
+com\mycompany\mavenproject1\service\ActivityFacadeREST.class
+com\mycompany\mavenproject1\service\UserActivityFacadeREST.class
+com\mycompany\mavenproject1\JAXRSConfiguration.class
